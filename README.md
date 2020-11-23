@@ -1,10 +1,10 @@
 # COMP 6200 Data Science Project
 
 ## Group : Group K 
-## Group Members : Karthik Varma Keerthipati (46272496)
-##                                Utkash  Nandakumaran Menon (46169377)       
-##                                Bilal Qureshi (46119043)
-##                                Muhammad Bilal Arif (46142754)
+## Group Members : Karthik Varma Keerthipati
+##                                Utkash  Nandakumaran Menon     
+##                                Bilal Qureshi
+##                                Muhammad Bilal Arif
 # Project Title : Analysis on the impact of lockdown on the air quality.
 
 ## Introduction:
